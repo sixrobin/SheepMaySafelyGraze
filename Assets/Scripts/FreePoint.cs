@@ -19,7 +19,7 @@ namespace WN
         private bool _mustBeInPolygon = true;
 
         [SerializeField]
-        private RSLib.ParticlesSpawner _onEnableParticles = null;
+        private RSLib.ParticlesSpawnerPool _onEnableParticles = null;
 
         [SerializeField]
         private SpriteAnimator _helpSpriteAnimator = null;

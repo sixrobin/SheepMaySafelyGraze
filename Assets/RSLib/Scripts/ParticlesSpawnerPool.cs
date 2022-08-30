@@ -11,7 +11,7 @@
         protected override GameObject SpawnParticle(Particle particle, Transform parent)
         {
             GameObject instance = RSLib.Framework.Pooling.Pool.Get(particle.Prefab);
-            instance.transform.SetParent(parent);
+            // instance.transform.SetParent(parent);
             return instance;
         }
     }

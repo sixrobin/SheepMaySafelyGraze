@@ -18,7 +18,7 @@ namespace WN
         private float _draggedMotionStep = 0.2f;
 
         [SerializeField]
-        private ParticlesSpawner _pointSetParticles = null;
+        private ParticlesSpawnerPool _pointSetParticles = null;
 
         [SerializeField]
         private UnityEngine.Events.UnityEvent _onDragBegin = null;
