@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ba60081a51c464eb8eff7c02623a0c, type: 3}
+  m_Name: Sheep
+  m_EditorClassIdentifier: 
+  _mixerGroup: {fileID: -3539871569477767839, guid: 1ec8c024ee2e0c844a668d2c1a533b14, type: 2}
+  _volumeMultiplier: 0.5
+  _pitchOffset: 0
+  _clipsPlayDatas:
+  - _clip: {fileID: 8300000, guid: 0b3f1efeff0034d4e96924e1622e789d, type: 3}
+    _volumeRandomRange: {x: 1, y: 1}
+    _pitchVariation: 0
+  - _clip: {fileID: 8300000, guid: 100c6137c75765147ab2cdc1cfe8ee99, type: 3}
+    _volumeRandomRange: {x: 1, y: 1}
+    _pitchVariation: 0
+  - _clip: {fileID: 8300000, guid: 19e3a6ca54a22d640b572a0085497a17, type: 3}
+    _volumeRandomRange: {x: 1, y: 1}
+    _pitchVariation: 0
+  - _clip: {fileID: 8300000, guid: effe78bc8a794a2468158a1b6615d7f9, type: 3}
+    _volumeRandomRange: {x: 1, y: 1}
+    _pitchVariation: 0
+  - _clip: {fileID: 8300000, guid: 42f9493b52c078d4ba00a35fdea5bc6e, type: 3}
+    _volumeRandomRange: {x: 1, y: 1}
+    _pitchVariation: 0
