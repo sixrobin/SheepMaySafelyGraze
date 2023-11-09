@@ -14,7 +14,6 @@ namespace WN
         [SerializeField]
         private bool _negative = false;
         
-        private float _initRotation;
         private float _timer;
         
         private void Rotate()
@@ -26,7 +25,6 @@ namespace WN
         private void Awake()
         {
             _timer = Random.value;
-            _initRotation = transform.localEulerAngles.z;
         }
 
         private void Update()
