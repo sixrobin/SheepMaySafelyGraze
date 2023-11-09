@@ -3,4 +3,4 @@ A very small prototype which can be considered a gameplay implementation of the 
 The game goal is simply to build an enclosure containing all the sheep, while keeping them safe from the dark sheep wandering around.
 The game is playable at https://sixrobin.itch.io/sheepmaysafelygraze
 
-![github](https://github.com/sixrobin/SheepMaySafelyGraze/assets/55784799/96378e67-b548-4769-828f-2935dbfd93f9)
+![github](https://github.com/sixrobin/SheepMaySafelyGraze/assets/55784799/931e063d-289d-4bc3-89cb-f3b3f3be7065)
